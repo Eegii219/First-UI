@@ -1,13 +1,14 @@
 //
-//  ViewController.swift
+//  SecondViewController.swift
 //  FirstUI
 //
 //  Created by Enkhtsetseg Unurbayar on 11/7/24.
 //
 
+
 import UIKit
 
-class ViewController: UIViewController {
+class SecondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,4 +17,3 @@ class ViewController: UIViewController {
 
 
 }
-
